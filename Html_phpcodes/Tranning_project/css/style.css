@@ -1,0 +1,32 @@
+.navbar {
+    margin: 10px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 30px;
+}
+.navbar-inverse{
+    background-color:rgba(0,0,0,1);  
+}
+.header-text {
+    position: absolute;
+    top: 20%;
+    left: 1.8%;
+    right: auto;
+    width: 96.66666666666666%;
+    color: #fff;
+}
+#first_slide{
+    background-color:rgba(0,0,0,0.5);  
+    padding: 20px;
+    width: 800px;
+    border-radius: 20px;
+}
+footer{
+    padding: 10px 0;
+    text-align: center;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0px;
+    width: 100%;
+}
+
